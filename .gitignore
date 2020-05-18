@@ -1,0 +1,11 @@
+# This gitignore will ensure that only world and characters are backed up
+# It should be placed in the same folder that contains worlds folder
+#
+#
+
+/[Cc]aptures/
+/[Rr]ersource[Pp]acks/
+
+# Ignore the config files
+*.json
+*.dat
