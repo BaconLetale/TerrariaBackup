@@ -5,7 +5,9 @@
 
 /[Cc]aptures/
 /[Rr]ersource[Pp]acks/
+/[Mm]od[Ll]oader/
 
 # Ignore the config files
 *.json
 *.dat
+ModLoader/Logs/client.log
