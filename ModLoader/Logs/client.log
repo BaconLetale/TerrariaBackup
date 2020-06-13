@@ -1,124 +1,77 @@
-﻿[00:18:55] [1/INFO] [tML]: Starting tModLoader v0.11.7.2 Windows client (24/05/2020)
-[00:18:55] [1/INFO] [tML]: Running on NetFramework 4.8
-[00:18:55] [1/INFO] [tML]: Executable: C:\Program Files (x86)\Steam\steamapps\common\tModLoader\tModLoader.exe
-[00:18:55] [1/INFO] [tML]: Working Directory: C:\Program Files (x86)\Steam\steamapps\common\tModLoader
-[00:18:55] [1/INFO] [tML]: Launch Parameters: 
-[00:18:55] [1/DEBUG] [tML]: Assembly Resolve:  -> MonoMod.RuntimeDetour, Version=20.5.14.1, Culture=neutral, PublicKeyToken=null
-[00:18:55] [1/DEBUG] [tML]: Assembly Resolve: MonoMod.RuntimeDetour, Version=20.5.14.1, Culture=neutral, PublicKeyToken=null -> MonoMod.Utils, Version=20.5.14.1, Culture=neutral, PublicKeyToken=null
-[00:18:55] [1/DEBUG] [tML]: Assembly Resolve: MonoMod.RuntimeDetour, Version=20.5.14.1, Culture=neutral, PublicKeyToken=null -> Mono.Cecil, Version=0.11.2.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e
-[00:18:55] [1/DEBUG] [tML]: Assembly Resolve:  -> Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
-[00:18:56] [1/DEBUG] [tML]: Assembly Resolve:  -> Steamworks.NET, Version=9.1.0.0, Culture=neutral, PublicKeyToken=null
-[00:18:56] [1/INFO] [Terraria]: Found Terraria steamapp install at: C:\Program Files (x86)\Steam\steamapps\common\Terraria
-[00:18:57] [1/DEBUG] [tML]: Assembly Resolve:  -> Ionic.Zip.Reduced, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c
-[00:18:57] [1/DEBUG] [Terraria]: Graphics Device: NVIDIA GeForce GTX 1070 Ti {Width:2560 Height:1440 Format:Color AspectRatio:1.777778}
-[00:18:57] [1/DEBUG] [Terraria]: Device Reset, Profile: Reach -> HiDef, Width: 800, Height: 480, Fullscreen: False, Display: \\.\DISPLAY1
-[00:18:58] [1/INFO] [Terraria]: Loaded 1000 vanilla assets
-[00:18:59] [1/INFO] [Terraria]: Loaded 2000 vanilla assets
-[00:19:02] [1/INFO] [Terraria]: Loaded 3000 vanilla assets
-[00:19:06] [1/INFO] [Terraria]: Loaded 4000 vanilla assets
-[00:19:09] [1/INFO] [Terraria]: Loaded 5000 vanilla assets
-[00:19:12] [1/DEBUG] [Terraria]: Device Reset, Profile: HiDef, Width: 800, Height: 480 -> 600, Fullscreen: False, Display: \\.\DISPLAY1
-[00:19:14] [12/DEBUG] [tML]: Assembly Resolve:  -> MP3Sharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-[00:19:14] [12/DEBUG] [tML]: Assembly Resolve:  -> NVorbis, Version=0.8.4.0, Culture=neutral, PublicKeyToken=null
-[00:19:14] [15/DEBUG] [tML]: Assembly Resolve:  -> Mono.Cecil.Mdb, Version=0.11.2.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e
-[00:19:14] [16/DEBUG] [tML]: Assembly Resolve:  -> Mono.Cecil.Pdb, Version=0.11.2.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e
-[00:19:14] [16/DEBUG] [tML]: Assembly Resolve:  -> Mono.Cecil.Mdb, Version=0.11.2.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e
-[00:19:14] [7/INFO] [Terraria]: JIT loading finished
-[00:19:26] [1/DEBUG] [Terraria]: Device Reset, Profile: HiDef, Width: 800 -> 2560, Height: 600 -> 1377, Fullscreen: False, Display: \\.\DISPLAY1
-[00:19:36] [22/INFO] [tML]: Unloading mods
-[00:19:37] [22/INFO] [tML]: Finding Mods...
-[00:19:37] [22/INFO] [tML]: Instantiating Mods...
-[00:19:37] [22/INFO] [tML]: Initializing: ModLoader v0.11.7.2
-[00:19:37] [22/INFO] [tML]: Setting up...
-[00:19:37] [22/INFO] [tML]: Loading: ModLoader v0.11.7.2
-[00:19:37] [22/INFO] [tML]: Adding Recipes...
-[00:19:51] [23/DEBUG] [tML]: Web Request: http://javid.ddns.net/tModLoader/listmods.php
-[00:19:51] [17/DEBUG] [tML]: Web Request: https://www.dropbox.com/s/hvx5pu64lcqk5xl/listmods.php_tModLoader v0.11.7.2_wsn.txt?dl=1
-[00:19:52] [17/DEBUG] [tML]: Web Request: https://www.dropbox.com/s/dl/hvx5pu64lcqk5xl/listmods.php_tModLoader v0.11.7.2_wsn.txt
-[00:19:52] [17/DEBUG] [tML]: Web Request: https://uca486beedabdf9b5e474aa147f8.dl.dropboxusercontent.com/cd/0/get/A4RXGXg6nTu-6JynTzg1s6RsaxwVcgDcY2jdJWdP57LIrm4PGScgtY9EZrRkdw9giKr7CrfrQGJbColv0W64E0--NgFY9ZjIxcUrjsvS2Wn4gur4-af44eJnBaUQJP6EyrQ/file?dl=1#
-[00:19:53] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/9F0jfMD.png
-[00:19:53] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/qECByPK.png
-[00:19:53] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/P3t59BV.png
-[00:19:53] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/MvfnNhn.png
-[00:19:53] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/TU20PL8.png
-[00:19:53] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/n5GtJcS.png
-[00:19:53] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/slu9CRt.png
-[00:19:53] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/Zg6LQGZ.png
-[00:20:08] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/Tu4K25O.png
-[00:20:12] [22/DEBUG] [tML]: Web Request: http://javid.ddns.net/tModLoader/moddescription.php
-[00:20:12] [22/DEBUG] [tML]: Web Request: http://javid.ddns.net/tModLoader/moddescription.php
-[00:20:26] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/yZbbJot.png
-[00:20:26] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/lm11Z4j.png
-[00:20:26] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/GmoWnQZ.png
-[00:20:26] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/KsEdZrz.png
-[00:20:26] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/jFJGu7X.png
-[00:20:26] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/GY1qT4y.png
-[00:20:32] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/KOHBHAE.png
-[00:20:34] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/S3IZDHw.png
-[00:20:34] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/Mw9qvAP.png
-[00:20:37] [12/DEBUG] [tML]: Web Request: http://javid.ddns.net/tModLoader/moddescription.php
-[00:20:37] [12/DEBUG] [tML]: Web Request: http://javid.ddns.net/tModLoader/moddescription.php
-[00:20:41] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/fgoHV4a.png
-[00:20:42] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/P5bUPm7.png
-[00:20:43] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/LPKiWUu.png
-[00:20:48] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/pAN2NP2.png
-[00:20:48] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/HuDr19P.png
-[00:20:52] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/9q4vtA7.png
-[00:20:52] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/bDMBaqz.png
-[00:20:52] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/4EMnRcX.png
-[00:20:52] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/38TV0Cl.png
-[00:20:52] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/KKAVPta.png
-[00:20:58] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/YszZ0Tv.png
-[00:20:58] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/DaYipcv.png
-[00:20:58] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/hG3NnGO.png
-[00:20:58] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/tOq1sJi.png
-[00:20:58] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/FegSmJN.png
-[00:20:58] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/EthJPYV.png
-[00:20:58] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/fs7Ydha.png
-[00:20:58] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/Bquw2hP.png
-[00:20:58] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/LjRa5vU.png
-[00:20:59] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/gmnCOS9.png
-[00:20:59] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/kOxKldY.png
-[00:20:59] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/59sDxzd.png
-[00:20:59] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/M1CJySk.png
-[00:20:59] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/rbzBkfV.png
-[00:20:59] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/zNu1Ecu.png
-[00:20:59] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/BewYxtu.png
-[00:20:59] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/kopDvwu.png
-[00:20:59] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/hdaCktH.png
-[00:20:59] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/cfifWgK.png
-[00:20:59] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/7j5RNaC.png
-[00:21:00] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/QsvkeOr.png
-[00:21:00] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/8qxnFYA.png
-[00:21:00] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/xIYeioq.png
-[00:21:00] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/lVkXSvs.png
-[00:21:00] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/B8tdX9Y.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/f0xCCE7.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/Wuto0tf.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/z45Wv6c.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/ltsvwFS.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/qcC4ESG.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/EkQZC7H.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/wONnFJW.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/9jBQZtQ.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/LuUgnqb.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/40Pv3ji.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/h1wgHoQ.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/3xA9w25.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/8bevqkN.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/kvM2uJf.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/1Hww1rC.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/X6G2pnf.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/Kuak3o5.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/w5BKhRb.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/Wy4IF9y.png
-[00:21:04] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/mkCablx.png
-[00:21:07] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/5W230wN.png
-[00:21:07] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/YcpUMUy.png
-[00:21:07] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/u4qBuc9.png
-[00:21:07] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/lskKlTc.png
-[00:21:07] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/PhqqxoE.png
-[00:21:07] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/oteTNtI.png
-[00:21:07] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/k27ttij.png
-[00:21:07] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/DgVYbb6.png
-[00:21:07] [1/DEBUG] [tML]: Web Request: https://i.imgur.com/k5EWIYT.png
+﻿[20:31:13] [1/INFO] [tML]: Starting tModLoader v0.11.7.5 Windows client (08/06/2020)
+[20:31:13] [1/INFO] [tML]: Running on NetFramework 4.8
+[20:31:13] [1/INFO] [tML]: Executable: C:\Program Files (x86)\Steam\steamapps\common\tModLoader\tModLoader.exe
+[20:31:13] [1/INFO] [tML]: Working Directory: C:\Program Files (x86)\Steam\steamapps\common\tModLoader
+[20:31:13] [1/INFO] [tML]: Launch Parameters: 
+[20:31:13] [1/DEBUG] [tML]: Assembly Resolve:  -> MonoMod.RuntimeDetour, Version=20.5.14.1, Culture=neutral, PublicKeyToken=null
+[20:31:13] [1/DEBUG] [tML]: Assembly Resolve: MonoMod.RuntimeDetour, Version=20.5.14.1, Culture=neutral, PublicKeyToken=null -> MonoMod.Utils, Version=20.5.14.1, Culture=neutral, PublicKeyToken=null
+[20:31:13] [1/DEBUG] [tML]: Assembly Resolve: MonoMod.RuntimeDetour, Version=20.5.14.1, Culture=neutral, PublicKeyToken=null -> Mono.Cecil, Version=0.11.2.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e
+[20:31:13] [1/DEBUG] [tML]: Assembly Resolve:  -> Ionic.Zip.Reduced, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c
+[20:31:13] [1/DEBUG] [tML]: Assembly Resolve:  -> Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed
+[20:31:13] [1/DEBUG] [tML]: Assembly Resolve:  -> Steamworks.NET, Version=9.1.0.0, Culture=neutral, PublicKeyToken=null
+[20:31:14] [1/INFO] [tML]: Checking Steam installation...
+[20:31:15] [1/INFO] [tML]: Steam installation OK.
+[20:31:15] [1/INFO] [Terraria]: Found Terraria steamapp install at: C:\Program Files (x86)\Steam\steamapps\common\Terraria
+[20:31:15] [1/INFO] [Terraria]: Steam Cloud Quota: 138.3 MB available
+[20:31:15] [1/DEBUG] [Terraria]: Graphics Device: NVIDIA GeForce GTX 1070 Ti {Width:2560 Height:1440 Format:Color AspectRatio:1.777778}
+[20:31:16] [1/DEBUG] [Terraria]: Device Reset, Profile: Reach -> HiDef, Width: 800, Height: 480, Fullscreen: False, Display: \\.\DISPLAY1
+[20:31:21] [1/INFO] [Terraria]: Loaded 1000 vanilla assets
+[20:31:25] [1/INFO] [Terraria]: Loaded 2000 vanilla assets
+[20:31:29] [1/INFO] [Terraria]: Loaded 3000 vanilla assets
+[20:31:33] [1/INFO] [Terraria]: Loaded 4000 vanilla assets
+[20:31:36] [1/INFO] [Terraria]: Loaded 5000 vanilla assets
+[20:31:41] [1/DEBUG] [Terraria]: Device Reset, Profile: HiDef, Width: 800 -> 2560, Height: 480 -> 1377, Fullscreen: False, Display: \\.\DISPLAY1
+[20:31:42] [11/DEBUG] [tML]: Assembly Resolve:  -> MP3Sharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[20:31:42] [11/DEBUG] [tML]: Assembly Resolve:  -> NVorbis, Version=0.8.4.0, Culture=neutral, PublicKeyToken=null
+[20:31:42] [10/DEBUG] [tML]: Assembly Resolve:  -> Mono.Cecil.Mdb, Version=0.11.2.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e
+[20:31:42] [10/DEBUG] [tML]: Assembly Resolve:  -> Mono.Cecil.Pdb, Version=0.11.2.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e
+[20:31:42] [7/INFO] [Terraria]: JIT loading finished
+[20:31:44] [11/INFO] [tML]: Unloading mods
+[20:31:45] [11/INFO] [tML]: Finding Mods...
+[20:31:45] [11/INFO] [tML]: Sandboxing: TRaI
+[20:31:45] [11/INFO] [tML]: Sandboxing: Widgets
+[20:31:45] [11/INFO] [tML]: Instantiating Mods...
+[20:31:45] [11/INFO] [tML]: Initializing: ModLoader v0.11.7.5
+[20:31:46] [11/INFO] [tML]: Initializing: TRaI v0.1.3.0
+[20:31:46] [11/INFO] [tML]: Initializing: Widgets v1.11.0.2
+[20:31:46] [11/INFO] [tML]: Setting up...
+[20:31:46] [11/INFO] [tML]: Loading: ModLoader v0.11.7.5
+[20:31:46] [11/INFO] [tML]: Loading: TRaI v0.1.3.0
+[20:31:46] [11/INFO] [tML]: Loading: Widgets v1.11.0.2
+[20:31:46] [11/INFO] [tML]: Adding Recipes...
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'By Hand' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Demon Altar' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Crystal Ball' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Loom' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Iron Anvil' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Furnace' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Keg' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Cooking Pot' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Work Bench' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Bottle' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Imbuing Station' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Mythril Anvil' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Bone Welder' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Steampunk Boiler' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Sky Mill' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Living Loom' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Honey Dispenser' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Heavy Work Bench' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Blend-O-Matic' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Ancient Manipulator' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Adamantite Forge' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Sawmill' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Solidifier' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Glass Kiln' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Lihzahrd Furnace' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Ice Machine' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Meat Grinder' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Flesh Cloning Vat' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Tinkerer's Workshop' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Wooden Table' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Wooden Chair' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Hellforge' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Autohammer' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Dye Vat' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 'Bookcase' label registered!
+[20:31:46] [11/INFO] [TRaI]: Mod Terraria, 1953 recipes registered!
