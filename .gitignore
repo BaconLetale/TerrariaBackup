@@ -12,3 +12,4 @@
 *.dat
 ModLoader/Logs/client.log
 ModLoader/Logs/client.log
+TEditLog.txt
